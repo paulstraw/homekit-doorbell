@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "*.uxml": "xml",
+    "*.uss": "css",
+    "*.tss": "css",
+    "*.tcc": "cpp"
+  }
+}
